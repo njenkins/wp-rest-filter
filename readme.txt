@@ -1,7 +1,7 @@
 === WP REST Filter ===
 Contributors: jack50n9, sk8tech, rachelbaker, joehoyle
 Donate link: https://sk8.tech/donate
-Tags: wp, rest, api, rest api, filter, acf, cpt, json
+Tags: wp, rest, api, rest api, filter, acf, cpt, json, taxonomy, meta
 Requires at least: 4.7.0
 Tested up to: 4.9.6
 Requires PHP: 5.2.4
