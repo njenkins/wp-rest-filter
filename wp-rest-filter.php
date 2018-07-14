@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP REST Filter
  * Plugin URI:        https://sk8.tech
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin adds the 'Filter' feature to the default WordPress REST APis. It supports CPT, ACF, Taxoomy, and Multiple Meta queries.
  * Version:           1.2.5
  * Author:            SK8Tech
  * Author URI:        https://sk8.tech
