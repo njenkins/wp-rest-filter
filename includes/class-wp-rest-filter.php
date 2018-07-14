@@ -120,8 +120,8 @@ class Wp_Rest_Filter {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-		if (defined('PLUGIN_NAME_VERSION')) {
-			$this->version = PLUGIN_NAME_VERSION;
+		if (defined('WP_REST_FILTER_VERSION')) {
+			$this->version = WP_REST_FILTER_VERSION;
 		} else {
 			$this->version = '1.0.0';
 		}

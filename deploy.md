@@ -3,7 +3,7 @@
 Update version number in /wp-rest-filter.php
 
 > * Version:           x.x.x
-> define('PLUGIN_NAME_VERSION', 'x.x.x');
+> define('WP_REST_FILTER_VERSION', 'x.x.x');
 
 # Git
 
