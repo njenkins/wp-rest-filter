@@ -16,7 +16,7 @@
  * Plugin Name:       WP REST Filter
  * Plugin URI:        https://sk8.tech
  * Description:       This plugin adds the 'Filter' feature to the default WordPress REST APis. It supports CPT, ACF, Taxoomy, and Multiple Meta queries.
- * Version:           1.2.5
+ * Version:           1.3.0
  * Author:            SK8Tech
  * Author URI:        https://sk8.tech
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if (!defined('WPINC')) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define('WP_REST_FILTER_VERSION', '1.2.5');
+define('WP_REST_FILTER_VERSION', '1.3.0');
 
 /**
  * The code that runs during plugin activation.

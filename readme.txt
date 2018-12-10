@@ -3,7 +3,7 @@ Contributors: jack50n9, sk8tech, rachelbaker, joehoyle
 Donate link: https://sk8.tech/donate
 Tags: wp, rest, api, rest api, filter, acf, cpt, json, taxonomy, meta
 Requires at least: 4.7.0
-Tested up to: 4.9.6
+Tested up to: 4.9.8
 Requires PHP: 5.2.4
 Stable tag: trunk
 License: GPLv2 or later
@@ -106,6 +106,10 @@ Issues and [pull requests](https://github.com/sk8-pty-ltd/wp-rest-filter/pulls) 
 1. An sample REST API GET request using [WP REST Filter](https://wordpress.org/plugins/wp-rest-filter/).
  
 == Changelog ==
+
+= 1.3.0 = 
+
+* Added Filter support for 'User' type.
 
 = 1.2.4 =
 
